@@ -1,5 +1,5 @@
 {
-  "name": "bitpay-rest",
+  "name": "globee-rest",
   "preferGlobal": false,
   "version": "0.3.1",
   "author": "Gordon Hall <gordon@bitpay.com>",
@@ -30,10 +30,11 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bitpay/node-bitpay-client.git"
+    "url": "https://github.com/GloBee-Official/node-bitpay-client.git"
   },
   "keywords": [
     "bitpay",
+    "globee",
     "rest",
     "api"
   ],

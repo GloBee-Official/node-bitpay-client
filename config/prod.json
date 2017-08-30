@@ -1,5 +1,5 @@
 {
-  "apiHost": "bitpay.com",
+  "apiHost": "globee.com",
   "apiPort": 443,
   "forceSSL": true,
   "timeout": 5000
